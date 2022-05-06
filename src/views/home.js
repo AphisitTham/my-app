@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Home extends Component {
     render() { 
         return (
-            <h1>Hello World JA 003</h1>
+            <h1>สวัสดีครับ ผมชื่ออภิสิทธิ์</h1>
         );
     }
 }
